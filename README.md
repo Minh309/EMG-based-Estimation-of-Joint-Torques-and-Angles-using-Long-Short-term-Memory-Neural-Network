@@ -1,0 +1,1 @@
+# EMG-based-Estimation-of-Joint-Torques-and-Angles-using-Long-Short-term-Memory-Neural-Network
