@@ -1,1 +1,1 @@
-# EMG-based-Estimation-of-Joint-Torques-and-Angles-using-Long-Short-term-Memory-Neural-Network
+Reference: Minh T.N Truong, Amged E.A Ali, Dai Owaki, Mitsuhiro Hayashibe, EMG-based Estimation of Joints Angles and Torques Using Long Short-term Memory Network, Journal of Biomedical and Health Informatics, IEEE Engineering in Medicine and Biology Society (Submitted)

@@ -1,0 +1,6 @@
+,
+EMG Features,./Data/Subject01_RMS_MAV_20200207_50ms.csv
+Inverse Kinematics,./Data/Subject01_IK_20200207_50ms.csv
+Inverse Dynamics,./Data/Subject01_ID_20200207_50ms.csv
+Output_path,./Output/Subject01/
+Output_name,Subject01_dataset_20200207_50ms
