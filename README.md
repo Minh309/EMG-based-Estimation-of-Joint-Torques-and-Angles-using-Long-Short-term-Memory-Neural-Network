@@ -1,1 +1,1 @@
-Reference: Minh T.N Truong, Amged E.A Ali, Dai Owaki, Mitsuhiro Hayashibe, EMG-based Estimation of Joints Angles and Torques Using Long Short-term Memory Network, Journal of Biomedical and Health Informatics, IEEE Engineering in Medicine and Biology Society (Submitted)
+Reference: Truong, M.T.N.; Ali, A.E.A.; Owaki, D.; Hayashibe, M. EMG-Based Estimation of Lower Limb Joint Angles and Moments Using Long Short-Term Memory Network. Sensors 2023, 23, 3331. https://doi.org/10.3390/s23063331
